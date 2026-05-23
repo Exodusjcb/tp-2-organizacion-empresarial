@@ -1,3 +1,4 @@
+#"PROY-3 Luis- Control de Calidad y Verificación de Entorno Estable"
 
 import pandas as pd
 import matplotlib.pyplot as plt
